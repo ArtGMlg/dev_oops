@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/artgml/dev_oops.git
+    repoURL: https://github.com/artgmlg/dev_oops.git
     targetRevision: HEAD
     path: manifests/guestbook
   destination:
